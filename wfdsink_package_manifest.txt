@@ -1,0 +1,3 @@
+Package								License
+----------							----------
+device/wfd-proprietary						Apache2, Freescale EULA
